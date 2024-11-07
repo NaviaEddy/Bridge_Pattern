@@ -17,7 +17,6 @@ Build/
 
 # Visual Studio files
 .vs/
-*.sln
 *.suo
 *.vcxproj
 *.vcxproj.filters
